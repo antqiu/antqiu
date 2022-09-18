@@ -17,7 +17,7 @@
   <p>
 
 <br />
-<h3 align="center"> Languages and Tools</h3>
+<h3 align="center">Languages and Tools</h3>
 
 <!----- 
 html, css, java, python, c, git, github, vsc, figma, photoshop
@@ -39,6 +39,9 @@ html, css, java, python, c, git, github, vsc, figma, photoshop
 <br />
 
 ---
+<br />
+
+<h3 align="center">Popular Projects</h3>
 
 <p align="center">
   <img width="400" src="https://github.com/antqiu/sonq/blob/main/sonq.png" />
