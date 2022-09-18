@@ -67,6 +67,9 @@ html, css, java, python, c, git, github, vsc, figma, photoshop
 ---
   
 <br />
+
+<h3 align="center">Statistics</h3>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=antqiu&theme=github_dark&show_icons=true&hide=issues" width="410"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antqiu&layout=compact&theme=github_dark" width="400" />
