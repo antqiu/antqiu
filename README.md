@@ -39,7 +39,6 @@ html, css, java, python, c, git, github, vsc, figma, photoshop
 <br />
 
 ---
-<br />
 
 <h3 align="center">Popular Projects</h3>
 
@@ -65,8 +64,6 @@ html, css, java, python, c, git, github, vsc, figma, photoshop
 <br />
 
 ---
-  
-<br />
 
 <h3 align="center">Statistics</h3>
 
