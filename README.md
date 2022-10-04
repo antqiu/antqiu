@@ -4,7 +4,7 @@
 <h3 align="center">Anthony Qiu</h3>
 <h6 align="center">Aspiring front-end developer</h6>
 <p align="center">
-<a href=""><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
+ <!--- <a href=""><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp; -->
 <a href="https://www.linkedin.com/in/anthonyqiuchu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:anthonyqiuchu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
 </p>
@@ -25,6 +25,7 @@ html, css, java, python, c, git, github, vsc, figma, photoshop
 <p align="center">
 <code align="center"><img height = "40" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code align="center"><img height = "40" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code align="center"><img height = "40" src = "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
 <code align="center"><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code align="center"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code align="center"><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
