@@ -40,14 +40,14 @@ html, css, java, python, c, git, github, vsc, figma, photoshop
 <br />
 
 ---
-
+  <!--- 
 <h3 align="center">Popular Projects</h3>
 
 <p align="center">
   <img width="400" src="https://github.com/antqiu/sonq/blob/main/sonq.png" />
   <img width="400" src="https://github.com/antqiu/sonq/blob/main/sonq.png" />
  
-  <!--- 
+
 
 <a href="https://github.com/antqiu/wordHunt">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=antqiu&repo=wordHunt&theme=github_dark" />
@@ -57,12 +57,12 @@ html, css, java, python, c, git, github, vsc, figma, photoshop
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=antqiu&repo=wordle&theme=github_dark" />
 </a>
 
--->
+
  
   <img width="400" src="https://github.com/antqiu/sonq/blob/main/sonq.png" />
   <img width="400" src="https://github.com/antqiu/sonq/blob/main/sonq.png" />
  
-  <!--- 
+ 
   <a href="https://github.com/antqiu/dodger">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=antqiu&repo=dodger&theme=github_dark" />
 </a>
