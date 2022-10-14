@@ -28,7 +28,7 @@ html, css, java, python, c, git, github, vsc, figma, photoshop
 <code align="center"><img height = "40" src = "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
 <code align="center"><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code align="center"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code align="center"><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
+<!----- <code align="center"><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code> --->
 <code align="center"><img height = "40" src = "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
 <code align="center"><img height="40" src="https://www.freeiconspng.com/thumbs/github-icon/git-github-hub-icon-25.png"></code>
 <code align="center"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
