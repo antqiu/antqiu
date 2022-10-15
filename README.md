@@ -40,12 +40,12 @@ html, css, java, python, c, git, github, vsc, figma, photoshop
 <br />
 
 ---
-  <!--- 
+ 
 <h3 align="center">Popular Projects</h3>
 
 <p align="center">
-  <img width="400" src="https://github.com/antqiu/sonq/blob/main/sonq.png" />
-  <img width="400" src="https://github.com/antqiu/sonq/blob/main/sonq.png" />
+  <img width="400" height="400" src="https://github.com/antqiu/wordHunt/blob/main/preview.png" />
+  <img width="400" height="400" src="https://github.com/antqiu/wordle/blob/main/wordle%20preview.png" />
  
 
 
@@ -59,8 +59,8 @@ html, css, java, python, c, git, github, vsc, figma, photoshop
 
 
  
-  <img width="400" src="https://github.com/antqiu/sonq/blob/main/sonq.png" />
-  <img width="400" src="https://github.com/antqiu/sonq/blob/main/sonq.png" />
+  <img width="400" height="400" src="https://github.com/antqiu/dodger/blob/main/dodger%20demo.png" />
+  <img width="400" height="400" src="https://github.com/antqiu/sonq/blob/main/sonq%20preview.png" />
  
  
   <a href="https://github.com/antqiu/dodger">
@@ -69,13 +69,12 @@ html, css, java, python, c, git, github, vsc, figma, photoshop
 <a href="https://github.com/antqiu/sonq">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=antqiu&repo=sonq&theme=github_dark" />
 </a>
--->
  
 </p>
  
 <br />
 
- <!--- 
+
 ---
 
 <h3 align="center">Statistics</h3>
@@ -85,7 +84,7 @@ html, css, java, python, c, git, github, vsc, figma, photoshop
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antqiu&layout=compact&theme=github_dark" width="400" />
 </p>
  
--->
+
 
 <!--- Helpful Links
 <>https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
