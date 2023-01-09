@@ -6,7 +6,7 @@
 <p align="center">
  <!--- <a href=""><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp; -->
 <a href="https://www.linkedin.com/in/anthonyqiuchu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:anthonyqiuchu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+<a href="mailto:aqiuchu1@binghamton.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
 </p>
 
 <h4 align="center">About Me</h4>
