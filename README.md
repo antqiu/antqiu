@@ -1,14 +1,16 @@
 
-<img src="https://i.pinimg.com/1200x/f0/8c/c4/f08cc419fdaf3b412adceda18332b943.jpg" height="250px" width="100%"></img>
-# Hi there, I'm Anthony! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+<!-- <img src="https://i.pinimg.com/1200x/f0/8c/c4/f08cc419fdaf3b412adceda18332b943.jpg" height="250px" width="100%"></img> -->
+# Hi there, I'm Anthony! :wave:
 
-### 🔮 About Me
+<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  -->
+
+### About Me
 &nbsp; 🌆 Software engineer based in New York \
 &nbsp; 🎨 Passioniate for all things UI/UX and design related \
 &nbsp; 🏫 Graduating with a Computer Science degree in 2025
 <!-- &nbsp; 💻 Looking for software engineer/web development internships -->
 
-<h3 align="left">:zap: Technologies</h3>
+<h3 align="left">Technologies</h3>
 
 <!-- Programming Languages -->
 <p align="left">
@@ -54,7 +56,7 @@
 </a>
 </p>
 
-### :gear: Stats
+### Stats
   <br/>
     <p align="left">
        <!-- <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=antqiu&hide_border=true&theme=nightowl" /> -->
