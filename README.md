@@ -1,13 +1,11 @@
 
 <!-- <img src="https://i.pinimg.com/1200x/f0/8c/c4/f08cc419fdaf3b412adceda18332b943.jpg" height="250px" width="100%"></img> -->
-# Hi there, I'm Anthony! :wave:
+# Hi there! :wave:
 
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  -->
 
 ### About Me
-&nbsp; 🌆 Software engineer based in New York \
-&nbsp; 🎨 Passioniate for all things UI/UX and design related \
-&nbsp; 🏫 Graduating with a Computer Science degree in 2025
+I'm Anthony, an aspiring software engineer based in Queens, NY.
 <!-- &nbsp; 💻 Looking for software engineer/web development internships -->
 
 <h3 align="left">Technologies</h3>
